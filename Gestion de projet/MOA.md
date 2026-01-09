@@ -7,9 +7,9 @@ Ce module a pour objectif de permettre de :
 * comparer et justifier des solutions techniques adaptées au contexte.
 ## Analyse des besoins
 ### Comprendre les besoins métier et fonctionnels
-L’étude d’avant-projet commence par l’analyse des besoins.\
+L’étude d’avant-projet commence par l’analyse des besoins.
 La maîtrise d’ouvrage a pour rôle de comprendre le problème à résoudre, indépendamment des solutions techniques possibles.
-Le besoin métier correspond aux objectifs de l’organisation : amélioration d’un processus, fiabilisation de l’information, optimisation d’un fonctionnement existant.\
+Le besoin métier correspond aux objectifs de l’organisation : amélioration d’un processus, fiabilisation de l’information, optimisation d’un fonctionnement existant.
 Le besoin fonctionnel traduit ce besoin métier en capacités attendues du système numérique.
 Cette distinction est essentielle pour éviter de confondre besoin et solution.
 ### Identifier les attentes des utilisateurs
@@ -17,7 +17,7 @@ L’analyse des besoins implique l’identification :
 * des utilisateurs finaux ;
 * des responsables métier ;
 * des parties prenantes impliquées dans le projet.
-Chaque acteur exprime des attentes différentes.\
+Chaque acteur exprime des attentes différentes.
 La MOA doit les recueillir, les comprendre et les structurer, tout en identifiant les attentes implicites ou non formulées.
 ### Utiliser des méthodes d’analyse des besoins
 Le recueil des besoins repose sur des méthodes adaptées au contexte :
@@ -73,30 +73,30 @@ Il précise :
 * les critères de conformité technique.
 Il ne décrit pas encore l’architecture détaillée, mais cadre les exigences que la solution devra respecter.
 ## Spécifications techniques
-Les cspécifications techniques interviennent après la rédaction du cahier des charges.\
+Les spécifications techniques interviennent après la rédaction du cahier des charges.\
 Il ne remet pas en cause les choix fonctionnels et techniques cadrés précédemment, mais vise à décrire plus précisément la traduction technique du projet, tout en restant à un niveau compatible avec une étude d’avant-projet.
 Ce chapitre permet de faire le lien entre :
 * les besoins et contraintes exprimés par la MOA ;
 * et la future phase de réalisation (MOE).
 ### Concevoir l’architecture technique
 La conception de l’architecture technique consiste à proposer une organisation globale du système, cohérente avec :
-* les fonctionnalités attendues (Chapitre 3) ;
+* les fonctionnalités attendues ;
 * les contraintes techniques identifiées ;
-* les exigences de sécurité et de performance.
+* les exigences de sécurité et de performance.\
 À ce stade, l’objectif n’est pas de produire une architecture exhaustive, mais :
 * d’identifier les grands composants du système ;
 * de préciser leur rôle ;
-* de montrer comment ils interagissent.
+* de montrer comment ils interagissent.\
 L’architecture technique doit permettre de répondre aux questions suivantes :
 * comment le système est-il structuré ?
 * quels sont les grands blocs fonctionnels et techniques ?
-* Commentc les données circulent-elles ?
+* Comment les données circulent-elles ?\
 La MOA veille à ce que l’architecture proposée soit :
 * compréhensible ;
 * réaliste ;
 * compatible avec l’existant.
 ### Décrire les interfaces avec les autres systèmes
-Un projet numérique s’intègre rarement de manière isolée.\
+Un projet numérique s’intègre rarement de manière isolée.
 Cette section vise à identifier et décrire les interfaces nécessaires avec les systèmes existants.
 Il s’agit notamment de préciser :
 * quels systèmes échangent des données avec la solution ;

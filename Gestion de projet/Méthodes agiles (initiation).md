@@ -92,3 +92,111 @@ Sur le terrain, il sert à :
 - adapter l’organisation ;
 - éviter les mauvaises surprises en fin de sprint.
 Ce n’est ni un outil de contrôle individuel, ni un outil de sanction.
+# Rôles et artefacts SCRUM
+Cette partie s’intéresse à qui fait quoi dans SCRUM et avec quels supports concrets.
+Sur le terrain, la majorité des échecs SCRUM ne viennent pas des outils, mais :
+- d’une mauvaise compréhension des rôles ;
+- de responsabilités floues ;
+- d’artefacts mal utilisés ou détournés de leur objectif initial.
+Pour un développeur web, comprendre ces éléments est essentiel afin de :
+- savoir ce qui relève de sa responsabilité ;
+- éviter les conflits inutiles ;
+- adopter une posture professionnelle attendue en entreprise.
+## Les rôles SCRUM : une organisation volontairement simple
+SCRUM définit trois rôles, et uniquement trois. Cette simplicité est volontaire. Ajouter des rôles intermédiaires ou hybrides est une dérive fréquente qui complique inutilement le fonctionnement de l’équipe.
+Les rôles SCRUM sont :
+- le *Product Owner* ;
+- le *Scrum Master* ;
+- l’équipe de développement.
+Chaque rôle a un périmètre clair. Lorsqu’un rôle empiète sur un autre, des tensions apparaissent rapidement.
+## Le *Product Owner* : responsable de la valeur, pas de la technique
+Le *Product Owner (PO)* est responsable de la valeur du produit. Son rôle est de décider quoi développer et dans quel ordre, en fonction des besoins des utilisateurs et des enjeux métier.
+### Ce que fait réellement un Product Owner sur le terrain
+Dans un projet web, le Product Owner :
+- collecte les besoins des utilisateurs ou du client ;
+- transforme ces besoins en éléments compréhensibles pour l’équipe ;
+- priorise le travail en fonction de la valeur apportée ;
+- arbitre lorsque tout ne peut pas être fait.
+Le PO est propriétaire du Product Backlog. Il est responsable de son contenu, de son ordre et de sa clarté.
+### Ce que le Product Owner ne fait pas
+Sur le terrain, une confusion fréquente consiste à assimiler le Product Owner à :
+- un chef de projet classique ;
+- un manager de l’équipe ;
+- un expert technique.
+Le PO ne décide pas comment le travail est réalisé. Il exprime le besoin, pas la solution technique.
+Pour un développeur, cela implique :
+- de ne pas attendre du PO des choix techniques ;
+- mais de collaborer avec lui pour comprendre la valeur attendue.
+## Le *Scrum Master* : garant du cadre, facilitateur au quotidien
+Le Scrum Master est souvent le rôle le plus mal compris, en particulier par les juniors.
+### Le rôle réel du *Scrum Master*
+Sur le terrain, le Scrum Master :
+- s’assure que SCRUM est compris et appliqué ;
+- facilite les échanges au sein de l’équipe ;
+- aide à résoudre les obstacles organisationnels ;
+- protège l’équipe des interruptions inutiles.
+Il agit comme un facilitateur, pas comme un chef.
+### Les dérives fréquentes
+Dans certaines organisations, le Scrum Master est :
+- confondu avec un manager hiérarchique ;
+- utilisé comme un chef de projet déguisé ;
+- chargé de faire du reporting pour la direction.
+Ces dérives nuisent au fonctionnement de SCRUM et à l’autonomie de l’équipe.
+Pour un développeur, comprendre le rôle du Scrum Master permet :
+- de savoir à qui remonter les blocages ;
+- de ne pas attendre de lui des décisions techniques ;
+- de mieux utiliser son aide au quotidien.
+## L’équipe de développement : responsabilité collective
+L’équipe de développement regroupe toutes les personnes nécessaires à la réalisation du produit.
+Dans un projet web, cela peut inclure :
+- développeurs *front-end* ;
+- développeurs *back-end* ;
+- intégrateurs ;
+- testeurs ;
+- *etc.*
+### Auto-organisation et responsabilité
+SCRUM repose sur l’auto-organisation. Cela signifie que l’équipe décide comment le travail est réalisé.
+La responsabilité est collective :
+- il n’y a pas de « ma tâche » isolée du reste ;
+- le sprint est réussi ou échoué collectivement.
+Pour un développeur junior, c’est un point fondamental :
+- la qualité du travail de chacun impacte toute l’équipe ;
+- l’entraide est une nécessité, pas une option.
+## Les artefacts SCRUM : rendre le travail visible
+Les artefacts SCRUM servent à rendre le travail visible et compréhensible. Ils sont des supports de communication avant d’être des outils de suivi.
+Les principaux artefacts sont :
+- les *User Stories* ;
+- le *Product Backlog* ;
+- le *Sprint Backlog* ;
+- la *Done Pill*.
+## Les *User Stories* : penser valeur avant solution
+Une *user story* exprime un besoin du point de vue utilisateur. Elle évite de raisonner uniquement en termes techniques.
+Une *user story* est souvent formulée sous la forme :
+	En tant que [type d’utilisateur],
+	je veux [objectif],
+	afin de [bénéfice].
+### Bonnes pratiques sur le terrain
+Sur le terrain, une bonne user story :
+- est compréhensible sans explication technique ;
+- apporte une valeur claire ;
+- est suffisamment petite pour être réalisée dans un sprint.
+## Le *Product Backlog* : mémoire vivante du produit
+Le Product Backlog est la liste ordonnée de tout ce qui pourrait être développé pour le produit.
+Il n’est ni figé, ni exhaustif dès le départ.
+Sur le terrain :
+- le *backlog* évolue en permanence ;
+- les priorités changent ;
+- certaines stories sont supprimées.
+Le *backlog* reflète les choix du *Product Owner* à un instant donné.
+## Le Sprint Backlog : engagement de l’équipe
+Le Sprint Backlog contient :
+- les *user stories* sélectionnées pour le sprint ;
+- les tâches nécessaires pour les réaliser.
+Il représente un engagement collectif de l’équipe.
+Une erreur fréquente consiste à surcharger le sprint *backlog*. Sur le terrain, un sprint réussi est un sprint réaliste, pas un sprint ambitieux sur le papier.
+## La *Done Pill* : visualiser l’avancement réel
+La *Done Pill* est un outil visuel permettant de voir rapidement :
+- ce qui est terminé ;
+- ce qui est en cours ;
+- ce qui reste à faire.
+Son intérêt principal est la transparence. Elle évite les discours flous sur l’avancement et met en évidence les blocages.

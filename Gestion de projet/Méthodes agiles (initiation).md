@@ -10,7 +10,7 @@ Dans ce cours, SCRUM n’est pas présenté comme un idéal théorique, mais com
 - être opérationnel dans un contexte professionnel.
 # Fondamentaux de SCRUM
 ## Pourquoi SCRUM
-SCRUM existe parce que les projets web sont complexes et imprévisibles. Dans un projet typique, il est très fréquent que :
+La méthode SCRUM existe parce que les projets web sont complexes et imprévisibles. Dans un projet typique, il est très fréquent que :
 - le client change d’avis après avoir vu une première version ou au cours du projet ;
 - certaines fonctionnalités initialement prévues se révèlent inutiles ou d'autres n'ont pas été prévues ;
 - des contraintes techniques apparaissent tardivement (techniques, réglementaires) ;
